@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+My name is OHSEUNGEUN :)
+Nice to meet you!
+
 <!--
 **rrrtyi/rrrtyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
